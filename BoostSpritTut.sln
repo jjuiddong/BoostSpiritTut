@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "RomanNumerals", "RomanNumerals\RomanNumerals.vcproj", "{71E80185-47B7-430F-8BB4-D6261A3BF439}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "2.Employee", "2.Employee\2.Employee.vcproj", "{A35268DD-F975-4434-892F-F55D19227FE2}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "3.MiniXml", "3.MiniXml\3.MiniXml.vcproj", "{9C606C77-679C-4F72-9AA3-99CBD780DE0B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{71E80185-47B7-430F-8BB4-D6261A3BF439}.Debug|Win32.ActiveCfg = Debug|Win32
+		{71E80185-47B7-430F-8BB4-D6261A3BF439}.Debug|Win32.Build.0 = Debug|Win32
+		{71E80185-47B7-430F-8BB4-D6261A3BF439}.Release|Win32.ActiveCfg = Release|Win32
+		{71E80185-47B7-430F-8BB4-D6261A3BF439}.Release|Win32.Build.0 = Release|Win32
+		{A35268DD-F975-4434-892F-F55D19227FE2}.Debug|Win32.ActiveCfg = Debug|Win32
+		{A35268DD-F975-4434-892F-F55D19227FE2}.Debug|Win32.Build.0 = Debug|Win32
+		{A35268DD-F975-4434-892F-F55D19227FE2}.Release|Win32.ActiveCfg = Release|Win32
+		{A35268DD-F975-4434-892F-F55D19227FE2}.Release|Win32.Build.0 = Release|Win32
+		{9C606C77-679C-4F72-9AA3-99CBD780DE0B}.Debug|Win32.ActiveCfg = Debug|Win32
+		{9C606C77-679C-4F72-9AA3-99CBD780DE0B}.Debug|Win32.Build.0 = Debug|Win32
+		{9C606C77-679C-4F72-9AA3-99CBD780DE0B}.Release|Win32.ActiveCfg = Release|Win32
+		{9C606C77-679C-4F72-9AA3-99CBD780DE0B}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
